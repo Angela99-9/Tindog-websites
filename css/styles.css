@@ -1,0 +1,133 @@
+#title{
+  background-color: #ff4c68;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+
+
+}
+
+.one{
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.container-fluid{
+  padding: 2% 10%;
+}
+.navbar-brand{
+  font-style: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+}
+.navbar{
+  padding-bottom: 6rem;
+}
+.nav-item{
+  padding:0 18px 15px 0 ;
+}
+.dwd{
+margin:5% 3% 5% 3%;
+}
+.rotate{
+  transform: rotate(25deg);
+  width:50%;
+
+}
+
+#features{
+
+padding:7% 15% ;
+background-color: white;
+
+}
+.feature-box{text-align: center;
+padding:5%;}
+h3{
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+p{
+  color: #afafaf;
+}
+.icon{
+  color: #ef8172;
+  margin:2%;
+}
+.icon:hover{
+  color: #ef8172;
+}
+#testimonials{
+
+  background-color: #ff4c68;
+  text-align:center;
+  color:#fff;font-family: 'Montserrat-Bold', sans-serif;
+font-weight: bold;
+}
+.dog{border-radius: 100%;
+width:20%;
+margin:15px;}
+#press{
+  background-color: #ff4c68;
+  text-align:center;
+
+  }
+  .imgs{
+    width:15%;
+    margin-bottom: 25px;
+    padding:25px;
+  }
+  .testimonial-image{border-radius: 100%;
+  width:20%;
+  margin:15px;}
+  .carousel-item{  padding:7% 15%;}
+  #pricing{
+    text-align: center;
+    margin:15px 10px;
+
+  }
+  .cards{
+    padding:10px;
+    font-family: 'Montserrat-Bold', sans-serif;
+
+    font-weight: bold;
+
+  }
+  @media (max-width:1028px){
+    .rotate{
+      position:static;
+      transform:rotate(0);
+
+    }
+    #title{
+      text-align: center;
+    }
+  }
+#cta{
+  background-color: #ff4c68;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+height:300px;
+text-align: center;
+}
+.dw{
+  margin:20px 20px;
+  padding:15px;
+}
+.ehh{
+margin:50px 20px;
+  font-weight: bold;
+  padding: 20px 20px 20px 20px;
+}
+#footer{
+  padding:7% 15%;
+  background-color: #fff;
+  text-align: center;
+}
+.logo{
+  margin:0 10px;
+}
